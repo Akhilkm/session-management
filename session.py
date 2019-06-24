@@ -2,7 +2,7 @@
 
 #title           :session.py
 #description     :This program can be used for managing cookie based sessions in CGI-Python using backend MongoDB.
-#author          :Kuberiter
+#author          :Akhil KM 
 #date            :2018/02/18
 #version         :0.1
 #usage           :cgi python (designed to handle web requests)
